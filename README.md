@@ -14,7 +14,7 @@ Password generators are an important part of online security. Choosing a strong 
 * CSS
 * JavaScript
 <br>
-![Alt text](assets/JS_Pass_Gen.jpg?raw=true "Password Generator Demo")
+![alt text](Assets/JS_Pass_Gen1.jpg "Password Generator Demo")
 
 <br>
 
