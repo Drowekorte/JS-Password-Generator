@@ -13,7 +13,8 @@ Password generators are an important part of online security. Choosing a strong 
 * HTML
 * CSS
 * JavaScript
-![Screen Shot](assets/JS_Pass_Gen.jpg)
+<br>
+![Alt text](assets/JS_Pass_Gen.jpg?raw=true "Password Generator Demo")
 
 <br>
 
@@ -21,7 +22,7 @@ Password generators are an important part of online security. Choosing a strong 
 
 To clone my code for your own project:
 * Copy the git SSH to your clipboard <br>
-![Screen Shot](assets/README/github.jpg)
+![Screen Shot](assets/github.jpg)
 * Create a local file to place the GitHub file into
 * Open your terminal, find the file you've just created
 * Type
